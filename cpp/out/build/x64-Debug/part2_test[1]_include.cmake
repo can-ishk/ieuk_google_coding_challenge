@@ -1,0 +1,5 @@
+if(EXISTS "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test[1]_tests.cmake")
+  include("E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test[1]_tests.cmake")
+else()
+  add_test(part2_test_NOT_BUILT part2_test_NOT_BUILT)
+endif()

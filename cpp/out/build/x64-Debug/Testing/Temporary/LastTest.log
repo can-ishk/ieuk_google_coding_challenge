@@ -1,0 +1,2204 @@
+Start testing: Jul 01 15:20 India Standard Time
+----------------------------------------------------------
+1/71 Testing: Part1.numberOfVideos
+1/71 Test: Part1.numberOfVideos
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.numberOfVideos" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.numberOfVideos" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.numberOfVideos
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.numberOfVideos
+[       OK ] Part1.numberOfVideos (2 ms)
+[----------] 1 test from Part1 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.numberOfVideos" end time: Jul 01 15:20 India Standard Time
+"Part1.numberOfVideos" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/71 Testing: Part1.showAllVideos
+2/71 Test: Part1.showAllVideos
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.showAllVideos" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.showAllVideos" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.showAllVideos
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.showAllVideos
+[       OK ] Part1.showAllVideos (2 ms)
+[----------] 1 test from Part1 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.showAllVideos" end time: Jul 01 15:20 India Standard Time
+"Part1.showAllVideos" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/71 Testing: Part1.playVideo
+3/71 Test: Part1.playVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.playVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.playVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.playVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.playVideo
+[       OK ] Part1.playVideo (1 ms)
+[----------] 1 test from Part1 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.playVideo" end time: Jul 01 15:20 India Standard Time
+"Part1.playVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/71 Testing: Part1.playVideoNonExistent
+4/71 Test: Part1.playVideoNonExistent
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.playVideoNonExistent" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.playVideoNonExistent" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.playVideoNonExistent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.playVideoNonExistent
+[       OK ] Part1.playVideoNonExistent (1 ms)
+[----------] 1 test from Part1 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.playVideoNonExistent" end time: Jul 01 15:20 India Standard Time
+"Part1.playVideoNonExistent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/71 Testing: Part1.playVideoStopPrevious
+5/71 Test: Part1.playVideoStopPrevious
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.playVideoStopPrevious" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.playVideoStopPrevious" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.playVideoStopPrevious
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.playVideoStopPrevious
+[       OK ] Part1.playVideoStopPrevious (2 ms)
+[----------] 1 test from Part1 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.playVideoStopPrevious" end time: Jul 01 15:20 India Standard Time
+"Part1.playVideoStopPrevious" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/71 Testing: Part1.playVideoDontStopPreviousIfNonExistent
+6/71 Test: Part1.playVideoDontStopPreviousIfNonExistent
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.playVideoDontStopPreviousIfNonExistent" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.playVideoDontStopPreviousIfNonExistent" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.playVideoDontStopPreviousIfNonExistent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.playVideoDontStopPreviousIfNonExistent
+[       OK ] Part1.playVideoDontStopPreviousIfNonExistent (5 ms)
+[----------] 1 test from Part1 (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.playVideoDontStopPreviousIfNonExistent" end time: Jul 01 15:20 India Standard Time
+"Part1.playVideoDontStopPreviousIfNonExistent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/71 Testing: Part1.stopVideo
+7/71 Test: Part1.stopVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.stopVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.stopVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.stopVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.stopVideo
+[       OK ] Part1.stopVideo (2 ms)
+[----------] 1 test from Part1 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.stopVideo" end time: Jul 01 15:20 India Standard Time
+"Part1.stopVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/71 Testing: Part1.stopVideoTwice
+8/71 Test: Part1.stopVideoTwice
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.stopVideoTwice" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.stopVideoTwice" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.stopVideoTwice
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.stopVideoTwice
+[       OK ] Part1.stopVideoTwice (1 ms)
+[----------] 1 test from Part1 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.stopVideoTwice" end time: Jul 01 15:20 India Standard Time
+"Part1.stopVideoTwice" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/71 Testing: Part1.stopVideoNothingPlaying
+9/71 Test: Part1.stopVideoNothingPlaying
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.stopVideoNothingPlaying" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.stopVideoNothingPlaying" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.stopVideoNothingPlaying
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.stopVideoNothingPlaying
+[       OK ] Part1.stopVideoNothingPlaying (5 ms)
+[----------] 1 test from Part1 (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.stopVideoNothingPlaying" end time: Jul 01 15:20 India Standard Time
+"Part1.stopVideoNothingPlaying" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/71 Testing: Part1.playRandomVideo
+10/71 Test: Part1.playRandomVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.playRandomVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.playRandomVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.playRandomVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.playRandomVideo
+E:\VS2019\Source\Repos\google-code-sample\cpp\out\build\x64-Debug\_deps\googletest-src\googletest\src/gtest-port.cc(865): error: Failed
+Syntax error at index 15 in simple regular expression "Playing video: (Amazing Cats|Another Cat Video|Funny Dogs|Life at Google|Video about nothing)": '(' is unsupported.
+E:\VS2019\Source\Repos\google-code-sample\cpp\out\build\x64-Debug\_deps\googletest-src\googletest\src/gtest-port.cc(865): error: Failed
+Syntax error at index 28 in simple regular expression "Playing video: (Amazing Cats|Another Cat Video|Funny Dogs|Life at Google|Video about nothing)": '|' is unsupported.
+E:\VS2019\Source\Repos\google-code-sample\cpp\out\build\x64-Debug\_deps\googletest-src\googletest\src/gtest-port.cc(865): error: Failed
+Syntax error at index 46 in simple regular expression "Playing video: (Amazing Cats|Another Cat Video|Funny Dogs|Life at Google|Video about nothing)": '|' is unsupported.
+E:\VS2019\Source\Repos\google-code-sample\cpp\out\build\x64-Debug\_deps\googletest-src\googletest\src/gtest-port.cc(865): error: Failed
+Syntax error at index 57 in simple regular expression "Playing video: (Amazing Cats|Another Cat Video|Funny Dogs|Life at Google|Video about nothing)": '|' is unsupported.
+E:\VS2019\Source\Repos\google-code-sample\cpp\out\build\x64-Debug\_deps\googletest-src\googletest\src/gtest-port.cc(865): error: Failed
+Syntax error at index 72 in simple regular expression "Playing video: (Amazing Cats|Another Cat Video|Funny Dogs|Life at Google|Video about nothing)": '|' is unsupported.
+E:\VS2019\Source\Repos\google-code-sample\cpp\out\build\x64-Debug\_deps\googletest-src\googletest\src/gtest-port.cc(865): error: Failed
+Syntax error at index 92 in simple regular expression "Playing video: (Amazing Cats|Another Cat Video|Funny Dogs|Life at Google|Video about nothing)": ')' is unsupported.
+..\..\..\test\part1_test.cpp(132): error: Value of: commandOutput[0]
+Expected: contains regular expression "Playing video: (Amazing Cats|Another Cat Video|Funny Dogs|Life at Google|Video about nothing)"
+  Actual: "Playing video: Amazing Cats"
+[  FAILED  ] Part1.playRandomVideo (2 ms)
+[----------] 1 test from Part1 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part1.playRandomVideo
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part1.playRandomVideo" end time: Jul 01 15:20 India Standard Time
+"Part1.playRandomVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/71 Testing: Part1.playRandomVideoStopsPreviousVideo
+11/71 Test: Part1.playRandomVideoStopsPreviousVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.playRandomVideoStopsPreviousVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.playRandomVideoStopsPreviousVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.playRandomVideoStopsPreviousVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.playRandomVideoStopsPreviousVideo
+E:\VS2019\Source\Repos\google-code-sample\cpp\out\build\x64-Debug\_deps\googletest-src\googletest\src/gtest-port.cc(865): error: Failed
+Syntax error at index 15 in simple regular expression "Playing video: (Amazing Cats|Another Cat Video|Funny Dogs|Life at Google|Video about nothing)": '(' is unsupported.
+E:\VS2019\Source\Repos\google-code-sample\cpp\out\build\x64-Debug\_deps\googletest-src\googletest\src/gtest-port.cc(865): error: Failed
+Syntax error at index 28 in simple regular expression "Playing video: (Amazing Cats|Another Cat Video|Funny Dogs|Life at Google|Video about nothing)": '|' is unsupported.
+E:\VS2019\Source\Repos\google-code-sample\cpp\out\build\x64-Debug\_deps\googletest-src\googletest\src/gtest-port.cc(865): error: Failed
+Syntax error at index 46 in simple regular expression "Playing video: (Amazing Cats|Another Cat Video|Funny Dogs|Life at Google|Video about nothing)": '|' is unsupported.
+E:\VS2019\Source\Repos\google-code-sample\cpp\out\build\x64-Debug\_deps\googletest-src\googletest\src/gtest-port.cc(865): error: Failed
+Syntax error at index 57 in simple regular expression "Playing video: (Amazing Cats|Another Cat Video|Funny Dogs|Life at Google|Video about nothing)": '|' is unsupported.
+E:\VS2019\Source\Repos\google-code-sample\cpp\out\build\x64-Debug\_deps\googletest-src\googletest\src/gtest-port.cc(865): error: Failed
+Syntax error at index 72 in simple regular expression "Playing video: (Amazing Cats|Another Cat Video|Funny Dogs|Life at Google|Video about nothing)": '|' is unsupported.
+E:\VS2019\Source\Repos\google-code-sample\cpp\out\build\x64-Debug\_deps\googletest-src\googletest\src/gtest-port.cc(865): error: Failed
+Syntax error at index 92 in simple regular expression "Playing video: (Amazing Cats|Another Cat Video|Funny Dogs|Life at Google|Video about nothing)": ')' is unsupported.
+..\..\..\test\part1_test.cpp(148): error: Value of: commandOutput[2]
+Expected: contains regular expression "Playing video: (Amazing Cats|Another Cat Video|Funny Dogs|Life at Google|Video about nothing)"
+  Actual: "Playing video: Amazing Cats"
+[  FAILED  ] Part1.playRandomVideoStopsPreviousVideo (2 ms)
+[----------] 1 test from Part1 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part1.playRandomVideoStopsPreviousVideo
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part1.playRandomVideoStopsPreviousVideo" end time: Jul 01 15:20 India Standard Time
+"Part1.playRandomVideoStopsPreviousVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/71 Testing: Part1.showPlaying
+12/71 Test: Part1.showPlaying
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.showPlaying" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.showPlaying" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.showPlaying
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.showPlaying
+[       OK ] Part1.showPlaying (1 ms)
+[----------] 1 test from Part1 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.showPlaying" end time: Jul 01 15:20 India Standard Time
+"Part1.showPlaying" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/71 Testing: Part1.showNothingPlaying
+13/71 Test: Part1.showNothingPlaying
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.showNothingPlaying" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.showNothingPlaying" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.showNothingPlaying
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.showNothingPlaying
+[       OK ] Part1.showNothingPlaying (1 ms)
+[----------] 1 test from Part1 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.showNothingPlaying" end time: Jul 01 15:20 India Standard Time
+"Part1.showNothingPlaying" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/71 Testing: Part1.pauseVideo
+14/71 Test: Part1.pauseVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.pauseVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.pauseVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.pauseVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.pauseVideo
+[       OK ] Part1.pauseVideo (4 ms)
+[----------] 1 test from Part1 (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.pauseVideo" end time: Jul 01 15:20 India Standard Time
+"Part1.pauseVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/71 Testing: Part1.pauseVideoShowVideo
+15/71 Test: Part1.pauseVideoShowVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.pauseVideoShowVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.pauseVideoShowVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.pauseVideoShowVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.pauseVideoShowVideo
+[       OK ] Part1.pauseVideoShowVideo (2 ms)
+[----------] 1 test from Part1 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.pauseVideoShowVideo" end time: Jul 01 15:20 India Standard Time
+"Part1.pauseVideoShowVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/71 Testing: Part1.pauseVideoPlayVideo
+16/71 Test: Part1.pauseVideoPlayVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.pauseVideoPlayVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.pauseVideoPlayVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.pauseVideoPlayVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.pauseVideoPlayVideo
+[       OK ] Part1.pauseVideoPlayVideo (1 ms)
+[----------] 1 test from Part1 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.pauseVideoPlayVideo" end time: Jul 01 15:20 India Standard Time
+"Part1.pauseVideoPlayVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/71 Testing: Part1.pauseAlreadyPausedVideo
+17/71 Test: Part1.pauseAlreadyPausedVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.pauseAlreadyPausedVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.pauseAlreadyPausedVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.pauseAlreadyPausedVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.pauseAlreadyPausedVideo
+[       OK ] Part1.pauseAlreadyPausedVideo (1 ms)
+[----------] 1 test from Part1 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.pauseAlreadyPausedVideo" end time: Jul 01 15:20 India Standard Time
+"Part1.pauseAlreadyPausedVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/71 Testing: Part1.pauseVideoNothingPlaying
+18/71 Test: Part1.pauseVideoNothingPlaying
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.pauseVideoNothingPlaying" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.pauseVideoNothingPlaying" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.pauseVideoNothingPlaying
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.pauseVideoNothingPlaying
+[       OK ] Part1.pauseVideoNothingPlaying (2 ms)
+[----------] 1 test from Part1 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.pauseVideoNothingPlaying" end time: Jul 01 15:20 India Standard Time
+"Part1.pauseVideoNothingPlaying" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/71 Testing: Part1.continueVideo
+19/71 Test: Part1.continueVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.continueVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.continueVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.continueVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.continueVideo
+[       OK ] Part1.continueVideo (4 ms)
+[----------] 1 test from Part1 (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.continueVideo" end time: Jul 01 15:20 India Standard Time
+"Part1.continueVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/71 Testing: Part1.continueVideoNotPaused
+20/71 Test: Part1.continueVideoNotPaused
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.continueVideoNotPaused" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.continueVideoNotPaused" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.continueVideoNotPaused
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.continueVideoNotPaused
+[       OK ] Part1.continueVideoNotPaused (5 ms)
+[----------] 1 test from Part1 (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.continueVideoNotPaused" end time: Jul 01 15:20 India Standard Time
+"Part1.continueVideoNotPaused" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/71 Testing: Part1.continueVideoNothingPlaying
+21/71 Test: Part1.continueVideoNothingPlaying
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part1_test.exe" "--gtest_filter=Part1.continueVideoNothingPlaying" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part1.continueVideoNothingPlaying" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part1.continueVideoNothingPlaying
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part1
+[ RUN      ] Part1.continueVideoNothingPlaying
+[       OK ] Part1.continueVideoNothingPlaying (1 ms)
+[----------] 1 test from Part1 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part1.continueVideoNothingPlaying" end time: Jul 01 15:20 India Standard Time
+"Part1.continueVideoNothingPlaying" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/71 Testing: Part2.createPlaylist
+22/71 Test: Part2.createPlaylist
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.createPlaylist" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.createPlaylist" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.createPlaylist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.createPlaylist
+[       OK ] Part2.createPlaylist (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.createPlaylist" end time: Jul 01 15:20 India Standard Time
+"Part2.createPlaylist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/71 Testing: Part2.createExistingPlaylist
+23/71 Test: Part2.createExistingPlaylist
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.createExistingPlaylist" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.createExistingPlaylist" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.createExistingPlaylist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.createExistingPlaylist
+[       OK ] Part2.createExistingPlaylist (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.createExistingPlaylist" end time: Jul 01 15:20 India Standard Time
+"Part2.createExistingPlaylist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/71 Testing: Part2.addToPlaylist
+24/71 Test: Part2.addToPlaylist
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.addToPlaylist" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.addToPlaylist" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.addToPlaylist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.addToPlaylist
+[       OK ] Part2.addToPlaylist (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.addToPlaylist" end time: Jul 01 15:20 India Standard Time
+"Part2.addToPlaylist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/71 Testing: Part2.addToPlaylistAlreadyAdded
+25/71 Test: Part2.addToPlaylistAlreadyAdded
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.addToPlaylistAlreadyAdded" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.addToPlaylistAlreadyAdded" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.addToPlaylistAlreadyAdded
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.addToPlaylistAlreadyAdded
+[       OK ] Part2.addToPlaylistAlreadyAdded (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.addToPlaylistAlreadyAdded" end time: Jul 01 15:20 India Standard Time
+"Part2.addToPlaylistAlreadyAdded" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/71 Testing: Part2.addVideoToPlaylistNonExistentVideo
+26/71 Test: Part2.addVideoToPlaylistNonExistentVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.addVideoToPlaylistNonExistentVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.addVideoToPlaylistNonExistentVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.addVideoToPlaylistNonExistentVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.addVideoToPlaylistNonExistentVideo
+[       OK ] Part2.addVideoToPlaylistNonExistentVideo (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.addVideoToPlaylistNonExistentVideo" end time: Jul 01 15:20 India Standard Time
+"Part2.addVideoToPlaylistNonExistentVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/71 Testing: Part2.addVideoToPlaylistNonExistent
+27/71 Test: Part2.addVideoToPlaylistNonExistent
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.addVideoToPlaylistNonExistent" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.addVideoToPlaylistNonExistent" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.addVideoToPlaylistNonExistent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.addVideoToPlaylistNonExistent
+[       OK ] Part2.addVideoToPlaylistNonExistent (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.addVideoToPlaylistNonExistent" end time: Jul 01 15:20 India Standard Time
+"Part2.addVideoToPlaylistNonExistent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/71 Testing: Part2.addVideoToPlaylistNonExistentNoPlaylistNoVideo
+28/71 Test: Part2.addVideoToPlaylistNonExistentNoPlaylistNoVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.addVideoToPlaylistNonExistentNoPlaylistNoVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.addVideoToPlaylistNonExistentNoPlaylistNoVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.addVideoToPlaylistNonExistentNoPlaylistNoVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.addVideoToPlaylistNonExistentNoPlaylistNoVideo
+[       OK ] Part2.addVideoToPlaylistNonExistentNoPlaylistNoVideo (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.addVideoToPlaylistNonExistentNoPlaylistNoVideo" end time: Jul 01 15:20 India Standard Time
+"Part2.addVideoToPlaylistNonExistentNoPlaylistNoVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/71 Testing: Part2.showAllPlaylistsNoPlaylistsExist
+29/71 Test: Part2.showAllPlaylistsNoPlaylistsExist
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.showAllPlaylistsNoPlaylistsExist" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.showAllPlaylistsNoPlaylistsExist" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.showAllPlaylistsNoPlaylistsExist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.showAllPlaylistsNoPlaylistsExist
+[       OK ] Part2.showAllPlaylistsNoPlaylistsExist (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.showAllPlaylistsNoPlaylistsExist" end time: Jul 01 15:20 India Standard Time
+"Part2.showAllPlaylistsNoPlaylistsExist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/71 Testing: Part2.showAllPlaylist
+30/71 Test: Part2.showAllPlaylist
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.showAllPlaylist" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.showAllPlaylist" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.showAllPlaylist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.showAllPlaylist
+[       OK ] Part2.showAllPlaylist (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.showAllPlaylist" end time: Jul 01 15:20 India Standard Time
+"Part2.showAllPlaylist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/71 Testing: Part2.showPlaylist
+31/71 Test: Part2.showPlaylist
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.showPlaylist" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.showPlaylist" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.showPlaylist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.showPlaylist
+[       OK ] Part2.showPlaylist (2 ms)
+[----------] 1 test from Part2 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.showPlaylist" end time: Jul 01 15:20 India Standard Time
+"Part2.showPlaylist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/71 Testing: Part2.showPlaylistAfterRemoveAVideoFromPlaylistThenReAdd
+32/71 Test: Part2.showPlaylistAfterRemoveAVideoFromPlaylistThenReAdd
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.showPlaylistAfterRemoveAVideoFromPlaylistThenReAdd" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.showPlaylistAfterRemoveAVideoFromPlaylistThenReAdd" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.showPlaylistAfterRemoveAVideoFromPlaylistThenReAdd
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.showPlaylistAfterRemoveAVideoFromPlaylistThenReAdd
+[       OK ] Part2.showPlaylistAfterRemoveAVideoFromPlaylistThenReAdd (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.showPlaylistAfterRemoveAVideoFromPlaylistThenReAdd" end time: Jul 01 15:20 India Standard Time
+"Part2.showPlaylistAfterRemoveAVideoFromPlaylistThenReAdd" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/71 Testing: Part2.showPlaylistNonExistent
+33/71 Test: Part2.showPlaylistNonExistent
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.showPlaylistNonExistent" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.showPlaylistNonExistent" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.showPlaylistNonExistent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.showPlaylistNonExistent
+[       OK ] Part2.showPlaylistNonExistent (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.showPlaylistNonExistent" end time: Jul 01 15:20 India Standard Time
+"Part2.showPlaylistNonExistent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/71 Testing: Part2.removeFromPlaylist
+34/71 Test: Part2.removeFromPlaylist
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.removeFromPlaylist" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.removeFromPlaylist" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.removeFromPlaylist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.removeFromPlaylist
+[       OK ] Part2.removeFromPlaylist (2 ms)
+[----------] 1 test from Part2 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.removeFromPlaylist" end time: Jul 01 15:20 India Standard Time
+"Part2.removeFromPlaylist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/71 Testing: Part2.removeFromPlaylistVideoNotInPlaylist
+35/71 Test: Part2.removeFromPlaylistVideoNotInPlaylist
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.removeFromPlaylistVideoNotInPlaylist" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.removeFromPlaylistVideoNotInPlaylist" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.removeFromPlaylistVideoNotInPlaylist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.removeFromPlaylistVideoNotInPlaylist
+[       OK ] Part2.removeFromPlaylistVideoNotInPlaylist (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.removeFromPlaylistVideoNotInPlaylist" end time: Jul 01 15:20 India Standard Time
+"Part2.removeFromPlaylistVideoNotInPlaylist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/71 Testing: Part2.removeFromPlaylistNonexistentVideo
+36/71 Test: Part2.removeFromPlaylistNonexistentVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.removeFromPlaylistNonexistentVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.removeFromPlaylistNonexistentVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.removeFromPlaylistNonexistentVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.removeFromPlaylistNonexistentVideo
+[       OK ] Part2.removeFromPlaylistNonexistentVideo (4 ms)
+[----------] 1 test from Part2 (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.removeFromPlaylistNonexistentVideo" end time: Jul 01 15:20 India Standard Time
+"Part2.removeFromPlaylistNonexistentVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/71 Testing: Part2.removeFromPlaylistNonexistentPlaylist
+37/71 Test: Part2.removeFromPlaylistNonexistentPlaylist
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.removeFromPlaylistNonexistentPlaylist" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.removeFromPlaylistNonexistentPlaylist" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.removeFromPlaylistNonexistentPlaylist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.removeFromPlaylistNonexistentPlaylist
+[       OK ] Part2.removeFromPlaylistNonexistentPlaylist (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.removeFromPlaylistNonexistentPlaylist" end time: Jul 01 15:20 India Standard Time
+"Part2.removeFromPlaylistNonexistentPlaylist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/71 Testing: Part2.clearPlaylist
+38/71 Test: Part2.clearPlaylist
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.clearPlaylist" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.clearPlaylist" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.clearPlaylist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.clearPlaylist
+..\..\..\test\part2_test.cpp(264): error: Value of: commandOutput[4]
+Expected: has substring "Successfully removed all videos from mY_plaYList"
+  Actual: "Successfully removed all videos from: mY_plaYList"
+[  FAILED  ] Part2.clearPlaylist (2 ms)
+[----------] 1 test from Part2 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part2.clearPlaylist
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part2.clearPlaylist" end time: Jul 01 15:20 India Standard Time
+"Part2.clearPlaylist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/71 Testing: Part2.clearPlaylistNonexistent
+39/71 Test: Part2.clearPlaylistNonexistent
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.clearPlaylistNonexistent" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.clearPlaylistNonexistent" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.clearPlaylistNonexistent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.clearPlaylistNonexistent
+[       OK ] Part2.clearPlaylistNonexistent (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.clearPlaylistNonexistent" end time: Jul 01 15:20 India Standard Time
+"Part2.clearPlaylistNonexistent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/71 Testing: Part2.deletePlaylist
+40/71 Test: Part2.deletePlaylist
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.deletePlaylist" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.deletePlaylist" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.deletePlaylist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.deletePlaylist
+[       OK ] Part2.deletePlaylist (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.deletePlaylist" end time: Jul 01 15:20 India Standard Time
+"Part2.deletePlaylist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/71 Testing: Part2.deletePlaylistNonexistent
+41/71 Test: Part2.deletePlaylistNonexistent
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part2_test.exe" "--gtest_filter=Part2.deletePlaylistNonexistent" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part2.deletePlaylistNonexistent" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part2.deletePlaylistNonexistent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part2
+[ RUN      ] Part2.deletePlaylistNonexistent
+[       OK ] Part2.deletePlaylistNonexistent (1 ms)
+[----------] 1 test from Part2 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Part2.deletePlaylistNonexistent" end time: Jul 01 15:20 India Standard Time
+"Part2.deletePlaylistNonexistent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/71 Testing: Part3.searchVideosWithNoAnswer
+42/71 Test: Part3.searchVideosWithNoAnswer
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part3_test.exe" "--gtest_filter=Part3.searchVideosWithNoAnswer" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part3.searchVideosWithNoAnswer" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part3.searchVideosWithNoAnswer
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part3
+[ RUN      ] Part3.searchVideosWithNoAnswer
+..\..\..\test\part3_test.cpp(20): error: Expected equality of these values:
+  commandOutput.size()
+    Which is: 1
+  5
+[  FAILED  ] Part3.searchVideosWithNoAnswer (1 ms)
+[----------] 1 test from Part3 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part3.searchVideosWithNoAnswer
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part3.searchVideosWithNoAnswer" end time: Jul 01 15:20 India Standard Time
+"Part3.searchVideosWithNoAnswer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/71 Testing: Part3.searchVideosAndPlayAnswer
+43/71 Test: Part3.searchVideosAndPlayAnswer
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part3_test.exe" "--gtest_filter=Part3.searchVideosAndPlayAnswer" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part3.searchVideosAndPlayAnswer" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part3.searchVideosAndPlayAnswer
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part3
+[ RUN      ] Part3.searchVideosAndPlayAnswer
+..\..\..\test\part3_test.cpp(43): error: Expected equality of these values:
+  commandOutput.size()
+    Which is: 1
+  6
+[  FAILED  ] Part3.searchVideosAndPlayAnswer (1 ms)
+[----------] 1 test from Part3 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part3.searchVideosAndPlayAnswer
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part3.searchVideosAndPlayAnswer" end time: Jul 01 15:20 India Standard Time
+"Part3.searchVideosAndPlayAnswer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/71 Testing: Part3.searchVideosAnswerOutOfBounds
+44/71 Test: Part3.searchVideosAnswerOutOfBounds
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part3_test.exe" "--gtest_filter=Part3.searchVideosAnswerOutOfBounds" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part3.searchVideosAnswerOutOfBounds" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part3.searchVideosAnswerOutOfBounds
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part3
+[ RUN      ] Part3.searchVideosAnswerOutOfBounds
+..\..\..\test\part3_test.cpp(66): error: Expected equality of these values:
+  commandOutput.size()
+    Which is: 1
+  5
+[  FAILED  ] Part3.searchVideosAnswerOutOfBounds (1 ms)
+[----------] 1 test from Part3 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part3.searchVideosAnswerOutOfBounds
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part3.searchVideosAnswerOutOfBounds" end time: Jul 01 15:20 India Standard Time
+"Part3.searchVideosAnswerOutOfBounds" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/71 Testing: Part3.searchVideosInvalidNumber
+45/71 Test: Part3.searchVideosInvalidNumber
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part3_test.exe" "--gtest_filter=Part3.searchVideosInvalidNumber" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part3.searchVideosInvalidNumber" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part3.searchVideosInvalidNumber
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part3
+[ RUN      ] Part3.searchVideosInvalidNumber
+..\..\..\test\part3_test.cpp(89): error: Expected equality of these values:
+  commandOutput.size()
+    Which is: 1
+  5
+[  FAILED  ] Part3.searchVideosInvalidNumber (1 ms)
+[----------] 1 test from Part3 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part3.searchVideosInvalidNumber
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part3.searchVideosInvalidNumber" end time: Jul 01 15:20 India Standard Time
+"Part3.searchVideosInvalidNumber" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/71 Testing: Part3.searchVideosNoResults
+46/71 Test: Part3.searchVideosNoResults
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part3_test.exe" "--gtest_filter=Part3.searchVideosNoResults" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part3.searchVideosNoResults" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part3.searchVideosNoResults
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part3
+[ RUN      ] Part3.searchVideosNoResults
+..\..\..\test\part3_test.cpp(109): error: Value of: commandOutput[0]
+Expected: has substring "No search results for blah"
+  Actual: "searchVideos needs implementation"
+[  FAILED  ] Part3.searchVideosNoResults (2 ms)
+[----------] 1 test from Part3 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part3.searchVideosNoResults
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part3.searchVideosNoResults" end time: Jul 01 15:20 India Standard Time
+"Part3.searchVideosNoResults" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/71 Testing: Part3.searchVideosWithTagNoAnswer
+47/71 Test: Part3.searchVideosWithTagNoAnswer
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part3_test.exe" "--gtest_filter=Part3.searchVideosWithTagNoAnswer" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part3.searchVideosWithTagNoAnswer" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part3.searchVideosWithTagNoAnswer
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part3
+[ RUN      ] Part3.searchVideosWithTagNoAnswer
+..\..\..\test\part3_test.cpp(122): error: Expected equality of these values:
+  commandOutput.size()
+    Which is: 1
+  5
+[  FAILED  ] Part3.searchVideosWithTagNoAnswer (2 ms)
+[----------] 1 test from Part3 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part3.searchVideosWithTagNoAnswer
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part3.searchVideosWithTagNoAnswer" end time: Jul 01 15:20 India Standard Time
+"Part3.searchVideosWithTagNoAnswer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/71 Testing: Part3.searchVideosWithTagPlayAnswer
+48/71 Test: Part3.searchVideosWithTagPlayAnswer
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part3_test.exe" "--gtest_filter=Part3.searchVideosWithTagPlayAnswer" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part3.searchVideosWithTagPlayAnswer" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part3.searchVideosWithTagPlayAnswer
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part3
+[ RUN      ] Part3.searchVideosWithTagPlayAnswer
+..\..\..\test\part3_test.cpp(145): error: Expected equality of these values:
+  commandOutput.size()
+    Which is: 1
+  6
+[  FAILED  ] Part3.searchVideosWithTagPlayAnswer (2 ms)
+[----------] 1 test from Part3 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part3.searchVideosWithTagPlayAnswer
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part3.searchVideosWithTagPlayAnswer" end time: Jul 01 15:20 India Standard Time
+"Part3.searchVideosWithTagPlayAnswer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/71 Testing: Part3.searchVideosWithTagAnswerOutOfBounds
+49/71 Test: Part3.searchVideosWithTagAnswerOutOfBounds
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part3_test.exe" "--gtest_filter=Part3.searchVideosWithTagAnswerOutOfBounds" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part3.searchVideosWithTagAnswerOutOfBounds" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part3.searchVideosWithTagAnswerOutOfBounds
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part3
+[ RUN      ] Part3.searchVideosWithTagAnswerOutOfBounds
+..\..\..\test\part3_test.cpp(168): error: Expected equality of these values:
+  commandOutput.size()
+    Which is: 1
+  5
+[  FAILED  ] Part3.searchVideosWithTagAnswerOutOfBounds (2 ms)
+[----------] 1 test from Part3 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part3.searchVideosWithTagAnswerOutOfBounds
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part3.searchVideosWithTagAnswerOutOfBounds" end time: Jul 01 15:20 India Standard Time
+"Part3.searchVideosWithTagAnswerOutOfBounds" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/71 Testing: Part3.searchVideosWithTagNoResults
+50/71 Test: Part3.searchVideosWithTagNoResults
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part3_test.exe" "--gtest_filter=Part3.searchVideosWithTagNoResults" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part3.searchVideosWithTagNoResults" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part3.searchVideosWithTagNoResults
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part3
+[ RUN      ] Part3.searchVideosWithTagNoResults
+..\..\..\test\part3_test.cpp(188): error: Value of: commandOutput[0]
+Expected: has substring "No search results for #blah"
+  Actual: "searchVideosWithTag needs implementation"
+[  FAILED  ] Part3.searchVideosWithTagNoResults (2 ms)
+[----------] 1 test from Part3 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part3.searchVideosWithTagNoResults
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part3.searchVideosWithTagNoResults" end time: Jul 01 15:20 India Standard Time
+"Part3.searchVideosWithTagNoResults" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/71 Testing: Part4.flagVideoWithReason
+51/71 Test: Part4.flagVideoWithReason
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.flagVideoWithReason" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.flagVideoWithReason" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.flagVideoWithReason
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.flagVideoWithReason
+..\..\..\test\part4_test.cpp(20): error: Value of: commandOutput[0]
+Expected: has substring "Successfully flagged video: Amazing Cats (reason: dont_like_cats)"
+  Actual: "flagVideo needs implementation"
+[  FAILED  ] Part4.flagVideoWithReason (2 ms)
+[----------] 1 test from Part4 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.flagVideoWithReason
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.flagVideoWithReason" end time: Jul 01 15:20 India Standard Time
+"Part4.flagVideoWithReason" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/71 Testing: Part4.flagVideoWithoutReason
+52/71 Test: Part4.flagVideoWithoutReason
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.flagVideoWithoutReason" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.flagVideoWithoutReason" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.flagVideoWithoutReason
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.flagVideoWithoutReason
+..\..\..\test\part4_test.cpp(29): error: Value of: output
+Expected: has substring "Successfully flagged video: Another Cat Video (reason: Not supplied)"
+  Actual: "flagVideo needs implementation\n"
+[  FAILED  ] Part4.flagVideoWithoutReason (1 ms)
+[----------] 1 test from Part4 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.flagVideoWithoutReason
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.flagVideoWithoutReason" end time: Jul 01 15:20 India Standard Time
+"Part4.flagVideoWithoutReason" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/71 Testing: Part4.flagVideoAlreadyFlagged
+53/71 Test: Part4.flagVideoAlreadyFlagged
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.flagVideoAlreadyFlagged" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.flagVideoAlreadyFlagged" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.flagVideoAlreadyFlagged
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.flagVideoAlreadyFlagged
+..\..\..\test\part4_test.cpp(43): error: Value of: commandOutput[0]
+Expected: has substring "Successfully flagged video: Amazing Cats (reason: dont_like_cats)"
+  Actual: "flagVideo needs implementation"
+..\..\..\test\part4_test.cpp(45): error: Value of: commandOutput[1]
+Expected: has substring "Cannot flag video: Video is already flagged"
+  Actual: "flagVideo needs implementation"
+[  FAILED  ] Part4.flagVideoAlreadyFlagged (6 ms)
+[----------] 1 test from Part4 (7 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (7 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.flagVideoAlreadyFlagged
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.flagVideoAlreadyFlagged" end time: Jul 01 15:20 India Standard Time
+"Part4.flagVideoAlreadyFlagged" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/71 Testing: Part4.flagVideoNonexistent
+54/71 Test: Part4.flagVideoNonexistent
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.flagVideoNonexistent" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.flagVideoNonexistent" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.flagVideoNonexistent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.flagVideoNonexistent
+..\..\..\test\part4_test.cpp(56): error: Value of: commandOutput[0]
+Expected: has substring "Cannot flag video: Video does not exist"
+  Actual: "flagVideo needs implementation"
+[  FAILED  ] Part4.flagVideoNonexistent (2 ms)
+[----------] 1 test from Part4 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.flagVideoNonexistent
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.flagVideoNonexistent" end time: Jul 01 15:20 India Standard Time
+"Part4.flagVideoNonexistent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/71 Testing: Part4.flagVideoCanNoLongerPlay
+55/71 Test: Part4.flagVideoCanNoLongerPlay
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.flagVideoCanNoLongerPlay" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.flagVideoCanNoLongerPlay" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.flagVideoCanNoLongerPlay
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.flagVideoCanNoLongerPlay
+..\..\..\test\part4_test.cpp(70): error: Value of: commandOutput[0]
+Expected: has substring "Successfully flagged video: Amazing Cats (reason: Not supplied)"
+  Actual: "flagVideo needs implementation"
+..\..\..\test\part4_test.cpp(72): error: Value of: commandOutput[1]
+Expected: has substring "Cannot play video: Video is currently flagged (reason: Not supplied)"
+  Actual: "Playing video: Amazing Cats"
+[  FAILED  ] Part4.flagVideoCanNoLongerPlay (2 ms)
+[----------] 1 test from Part4 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.flagVideoCanNoLongerPlay
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.flagVideoCanNoLongerPlay" end time: Jul 01 15:20 India Standard Time
+"Part4.flagVideoCanNoLongerPlay" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/71 Testing: Part4.flagVideosPlayRandom
+56/71 Test: Part4.flagVideosPlayRandom
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.flagVideosPlayRandom" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.flagVideosPlayRandom" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.flagVideosPlayRandom
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.flagVideosPlayRandom
+..\..\..\test\part4_test.cpp(90): error: Value of: commandOutput[0]
+Expected: has substring "Successfully flagged video: Funny Dogs (reason: Not supplied)"
+  Actual: "flagVideo needs implementation"
+..\..\..\test\part4_test.cpp(94): error: Value of: commandOutput[1]
+Expected: has substring "Successfully flagged video: Amazing Cats (reason: Not supplied)"
+  Actual: "flagVideo needs implementation"
+..\..\..\test\part4_test.cpp(98): error: Value of: commandOutput[2]
+Expected: has substring "Successfully flagged video: Another Cat Video (reason: Not supplied)"
+  Actual: "flagVideo needs implementation"
+..\..\..\test\part4_test.cpp(102): error: Value of: commandOutput[3]
+Expected: has substring "Successfully flagged video: Life at Google (reason: Not supplied)"
+  Actual: "flagVideo needs implementation"
+..\..\..\test\part4_test.cpp(106): error: Value of: commandOutput[4]
+Expected: has substring "Successfully flagged video: Video about nothing (reason: Not supplied)"
+  Actual: "flagVideo needs implementation"
+..\..\..\test\part4_test.cpp(107): error: Value of: commandOutput[5]
+Expected: has substring "No videos available"
+  Actual: "Playing video: Amazing Cats"
+[  FAILED  ] Part4.flagVideosPlayRandom (2 ms)
+[----------] 1 test from Part4 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.flagVideosPlayRandom
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.flagVideosPlayRandom" end time: Jul 01 15:20 India Standard Time
+"Part4.flagVideosPlayRandom" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/71 Testing: Part4.flagVideoAddVideoToPlaylist
+57/71 Test: Part4.flagVideoAddVideoToPlaylist
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.flagVideoAddVideoToPlaylist" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.flagVideoAddVideoToPlaylist" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.flagVideoAddVideoToPlaylist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.flagVideoAddVideoToPlaylist
+..\..\..\test\part4_test.cpp(122): error: Value of: commandOutput[0]
+Expected: has substring "Successfully flagged video: Amazing Cats (reason: Not supplied)"
+  Actual: "flagVideo needs implementation"
+..\..\..\test\part4_test.cpp(127): error: Value of: commandOutput[2]
+Expected: has substring "Cannot add video to my_playlist: Video is currently flagged (reason: Not supplied)"
+  Actual: "Added video to my_playlist: Amazing Cats"
+[  FAILED  ] Part4.flagVideoAddVideoToPlaylist (5 ms)
+[----------] 1 test from Part4 (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.flagVideoAddVideoToPlaylist
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.flagVideoAddVideoToPlaylist" end time: Jul 01 15:20 India Standard Time
+"Part4.flagVideoAddVideoToPlaylist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/71 Testing: Part4.flagVideoShowPlaylist
+58/71 Test: Part4.flagVideoShowPlaylist
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.flagVideoShowPlaylist" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.flagVideoShowPlaylist" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.flagVideoShowPlaylist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.flagVideoShowPlaylist
+..\..\..\test\part4_test.cpp(146): error: Value of: commandOutput[2]
+Expected: has substring "Successfully flagged video: Amazing Cats (reason: dont_like_cats)"
+  Actual: "flagVideo needs implementation"
+..\..\..\test\part4_test.cpp(149): error: Value of: commandOutput[4]
+Expected: has substring "Amazing Cats (amazing_cats_video_id) [#cat #animal] - FLAGGED (reason: dont_like_cats)"
+  Actual: "Amazing Cats (amazing_cats_video_id) [#cat #animal]"
+[  FAILED  ] Part4.flagVideoShowPlaylist (5 ms)
+[----------] 1 test from Part4 (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.flagVideoShowPlaylist
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.flagVideoShowPlaylist" end time: Jul 01 15:20 India Standard Time
+"Part4.flagVideoShowPlaylist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/71 Testing: Part4.flagVideoShowAllVideos
+59/71 Test: Part4.flagVideoShowAllVideos
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.flagVideoShowAllVideos" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.flagVideoShowAllVideos" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.flagVideoShowAllVideos
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.flagVideoShowAllVideos
+..\..\..\test\part4_test.cpp(163): error: Value of: commandOutput[0]
+Expected: has substring "Successfully flagged video: Amazing Cats (reason: dont_like_cats)"
+  Actual: "flagVideo needs implementation"
+..\..\..\test\part4_test.cpp(166): error: Value of: commandOutput[2]
+Expected: has substring "Amazing Cats (amazing_cats_video_id) [#cat #animal] - FLAGGED (reason: dont_like_cats)"
+  Actual: "Amazing Cats (amazing_cats_video_id) [#cat #animal]"
+[  FAILED  ] Part4.flagVideoShowAllVideos (2 ms)
+[----------] 1 test from Part4 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.flagVideoShowAllVideos
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.flagVideoShowAllVideos" end time: Jul 01 15:20 India Standard Time
+"Part4.flagVideoShowAllVideos" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/71 Testing: Part4.flagVideoSearchVideos
+60/71 Test: Part4.flagVideoSearchVideos
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.flagVideoSearchVideos" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.flagVideoSearchVideos" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.flagVideoSearchVideos
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.flagVideoSearchVideos
+..\..\..\test\part4_test.cpp(191): error: Expected equality of these values:
+  commandOutput.size()
+    Which is: 2
+  5
+[  FAILED  ] Part4.flagVideoSearchVideos (1 ms)
+[----------] 1 test from Part4 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.flagVideoSearchVideos
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.flagVideoSearchVideos" end time: Jul 01 15:20 India Standard Time
+"Part4.flagVideoSearchVideos" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/71 Testing: Part4.flagVideoSearchVideosWithTag
+61/71 Test: Part4.flagVideoSearchVideosWithTag
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.flagVideoSearchVideosWithTag" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.flagVideoSearchVideosWithTag" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.flagVideoSearchVideosWithTag
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.flagVideoSearchVideosWithTag
+..\..\..\test\part4_test.cpp(217): error: Expected equality of these values:
+  commandOutput.size()
+    Which is: 2
+  5
+[  FAILED  ] Part4.flagVideoSearchVideosWithTag (1 ms)
+[----------] 1 test from Part4 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.flagVideoSearchVideosWithTag
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.flagVideoSearchVideosWithTag" end time: Jul 01 15:20 India Standard Time
+"Part4.flagVideoSearchVideosWithTag" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/71 Testing: Part4.flagVideoStopPlayingVideo
+62/71 Test: Part4.flagVideoStopPlayingVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.flagVideoStopPlayingVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.flagVideoStopPlayingVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.flagVideoStopPlayingVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.flagVideoStopPlayingVideo
+..\..\..\test\part4_test.cpp(240): error: Expected equality of these values:
+  commandOutput.size()
+    Which is: 3
+  4
+[  FAILED  ] Part4.flagVideoStopPlayingVideo (1 ms)
+[----------] 1 test from Part4 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.flagVideoStopPlayingVideo
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.flagVideoStopPlayingVideo" end time: Jul 01 15:20 India Standard Time
+"Part4.flagVideoStopPlayingVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/71 Testing: Part4.flagVideoStopPausedVideo
+63/71 Test: Part4.flagVideoStopPausedVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.flagVideoStopPausedVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.flagVideoStopPausedVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.flagVideoStopPausedVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.flagVideoStopPausedVideo
+..\..\..\test\part4_test.cpp(259): error: Expected equality of these values:
+  commandOutput.size()
+    Which is: 4
+  5
+[  FAILED  ] Part4.flagVideoStopPausedVideo (1 ms)
+[----------] 1 test from Part4 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.flagVideoStopPausedVideo
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.flagVideoStopPausedVideo" end time: Jul 01 15:20 India Standard Time
+"Part4.flagVideoStopPausedVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/71 Testing: Part4.flagVideoKeepVideoPlayingIfDifferentFromFlaggedVideo
+64/71 Test: Part4.flagVideoKeepVideoPlayingIfDifferentFromFlaggedVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.flagVideoKeepVideoPlayingIfDifferentFromFlaggedVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.flagVideoKeepVideoPlayingIfDifferentFromFlaggedVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.flagVideoKeepVideoPlayingIfDifferentFromFlaggedVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.flagVideoKeepVideoPlayingIfDifferentFromFlaggedVideo
+..\..\..\test\part4_test.cpp(283): error: Value of: commandOutput[1]
+Expected: has substring "Successfully flagged video: Another Cat Video (reason: dont_like_cats)"
+  Actual: "flagVideo needs implementation"
+[  FAILED  ] Part4.flagVideoKeepVideoPlayingIfDifferentFromFlaggedVideo (2 ms)
+[----------] 1 test from Part4 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.flagVideoKeepVideoPlayingIfDifferentFromFlaggedVideo
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.flagVideoKeepVideoPlayingIfDifferentFromFlaggedVideo" end time: Jul 01 15:20 India Standard Time
+"Part4.flagVideoKeepVideoPlayingIfDifferentFromFlaggedVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/71 Testing: Part4.allowVideo
+65/71 Test: Part4.allowVideo
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.allowVideo" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.allowVideo" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.allowVideo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.allowVideo
+..\..\..\test\part4_test.cpp(300): error: Value of: commandOutput[0]
+Expected: has substring "Successfully flagged video: Amazing Cats (reason: dont_like_cats)"
+  Actual: "flagVideo needs implementation"
+..\..\..\test\part4_test.cpp(302): error: Value of: commandOutput[1]
+Expected: has substring "Successfully removed flag from video: Amazing Cats"
+  Actual: "allowVideo needs implementation"
+[  FAILED  ] Part4.allowVideo (2 ms)
+[----------] 1 test from Part4 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.allowVideo
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.allowVideo" end time: Jul 01 15:20 India Standard Time
+"Part4.allowVideo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/71 Testing: Part4.allowVideoNotFlagged
+66/71 Test: Part4.allowVideoNotFlagged
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.allowVideoNotFlagged" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.allowVideoNotFlagged" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.allowVideoNotFlagged
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.allowVideoNotFlagged
+..\..\..\test\part4_test.cpp(313): error: Value of: commandOutput[0]
+Expected: has substring "Cannot remove flag from video: Video is not flagged"
+  Actual: "allowVideo needs implementation"
+[  FAILED  ] Part4.allowVideoNotFlagged (1 ms)
+[----------] 1 test from Part4 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.allowVideoNotFlagged
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.allowVideoNotFlagged" end time: Jul 01 15:20 India Standard Time
+"Part4.allowVideoNotFlagged" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/71 Testing: Part4.allowVideoNonexistent
+67/71 Test: Part4.allowVideoNonexistent
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.allowVideoNonexistent" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.allowVideoNonexistent" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.allowVideoNonexistent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.allowVideoNonexistent
+..\..\..\test\part4_test.cpp(324): error: Value of: commandOutput[0]
+Expected: has substring "Cannot remove flag from video: Video does not exist"
+  Actual: "allowVideo needs implementation"
+[  FAILED  ] Part4.allowVideoNonexistent (1 ms)
+[----------] 1 test from Part4 (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.allowVideoNonexistent
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.allowVideoNonexistent" end time: Jul 01 15:20 India Standard Time
+"Part4.allowVideoNonexistent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/71 Testing: Part4.allowVideoShowPlaylist
+68/71 Test: Part4.allowVideoShowPlaylist
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/part4_test.exe" "--gtest_filter=Part4.allowVideoShowPlaylist" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"Part4.allowVideoShowPlaylist" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Part4.allowVideoShowPlaylist
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Part4
+[ RUN      ] Part4.allowVideoShowPlaylist
+..\..\..\test\part4_test.cpp(345): error: Value of: commandOutput[2]
+Expected: has substring "Successfully flagged video: Amazing Cats (reason: dont_like_cats)"
+  Actual: "flagVideo needs implementation"
+..\..\..\test\part4_test.cpp(348): error: Value of: commandOutput[4]
+Expected: has substring "Amazing Cats (amazing_cats_video_id) [#cat #animal] - FLAGGED (reason: dont_like_cats)"
+  Actual: "Amazing Cats (amazing_cats_video_id) [#cat #animal]"
+..\..\..\test\part4_test.cpp(350): error: Value of: commandOutput[5]
+Expected: has substring "Successfully removed flag from video: Amazing Cats"
+  Actual: "allowVideo needs implementation"
+[  FAILED  ] Part4.allowVideoShowPlaylist (2 ms)
+[----------] 1 test from Part4 (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Part4.allowVideoShowPlaylist
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"Part4.allowVideoShowPlaylist" end time: Jul 01 15:20 India Standard Time
+"Part4.allowVideoShowPlaylist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/71 Testing: VideoLibrary.VideoLibraryHasAllVideos
+69/71 Test: VideoLibrary.VideoLibraryHasAllVideos
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/videolibrary_test.exe" "--gtest_filter=VideoLibrary.VideoLibraryHasAllVideos" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"VideoLibrary.VideoLibraryHasAllVideos" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = VideoLibrary.VideoLibraryHasAllVideos
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VideoLibrary
+[ RUN      ] VideoLibrary.VideoLibraryHasAllVideos
+[       OK ] VideoLibrary.VideoLibraryHasAllVideos (0 ms)
+[----------] 1 test from VideoLibrary (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"VideoLibrary.VideoLibraryHasAllVideos" end time: Jul 01 15:20 India Standard Time
+"VideoLibrary.VideoLibraryHasAllVideos" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/71 Testing: VideoLibrary.VideoLibraryParsesTagsCorrectly
+70/71 Test: VideoLibrary.VideoLibraryParsesTagsCorrectly
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/videolibrary_test.exe" "--gtest_filter=VideoLibrary.VideoLibraryParsesTagsCorrectly" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"VideoLibrary.VideoLibraryParsesTagsCorrectly" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = VideoLibrary.VideoLibraryParsesTagsCorrectly
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VideoLibrary
+[ RUN      ] VideoLibrary.VideoLibraryParsesTagsCorrectly
+[       OK ] VideoLibrary.VideoLibraryParsesTagsCorrectly (0 ms)
+[----------] 1 test from VideoLibrary (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"VideoLibrary.VideoLibraryParsesTagsCorrectly" end time: Jul 01 15:20 India Standard Time
+"VideoLibrary.VideoLibraryParsesTagsCorrectly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/71 Testing: VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags
+71/71 Test: VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags
+Command: "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/videolibrary_test.exe" "--gtest_filter=VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags" "--gtest_also_run_disabled_tests"
+Directory: E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug
+"VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags" start time: Jul 01 15:20 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from _deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VideoLibrary
+[ RUN      ] VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags
+[       OK ] VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags (0 ms)
+[----------] 1 test from VideoLibrary (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags" end time: Jul 01 15:20 India Standard Time
+"VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 01 15:20 India Standard Time

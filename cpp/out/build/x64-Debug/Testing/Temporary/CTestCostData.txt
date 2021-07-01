@@ -1,0 +1,102 @@
+Part1.numberOfVideos 42 0.000272693
+Part1.showAllVideos 37 0.000350997
+Part1.playVideo 42 0.000257774
+Part1.playVideoNonExistent 35 0.000314931
+Part1.playVideoStopPrevious 40 0.000263617
+Part1.playVideoDontStopPreviousIfNonExistent 37 0.000356803
+Part1.stopVideo 40 0.000259315
+Part1.stopVideoTwice 40 0.000255888
+Part1.stopVideoNothingPlaying 42 0.000324105
+Part1.playRandomVideo 0 0
+Part1.playRandomVideoStopsPreviousVideo 0 0
+Part1.showPlaying 33 0.000291597
+Part1.showNothingPlaying 33 0.00029417
+Part1.pauseVideo 33 0.000392288
+Part1.pauseVideoShowVideo 29 0.000361459
+Part1.pauseVideoPlayVideo 33 0.000289497
+Part1.pauseAlreadyPausedVideo 33 0.000312482
+Part1.pauseVideoNothingPlaying 33 0.000313318
+Part1.continueVideo 33 0.000394318
+Part1.continueVideoNotPaused 31 0.000422903
+Part1.continueVideoNothingPlaying 33 0.000314018
+Part2.createPlaylist 23 0.000428057
+Part2.createExistingPlaylist 19 0.000514953
+Part2.addToPlaylist 15 0.000621293
+Part2.addToPlaylistAlreadyAdded 15 0.000638547
+Part2.addVideoToPlaylistNonExistentVideo 15 0.000642967
+Part2.addVideoToPlaylistNonExistent 31 0.000331597
+Part2.addVideoToPlaylistNonExistentNoPlaylistNoVideo 31 0.000313713
+Part2.showAllPlaylistsNoPlaylistsExist 31 0.000305981
+Part2.showAllPlaylist 12 0.000800067
+Part2.showPlaylist 15 0.0006695
+Part2.showPlaylistAfterRemoveAVideoFromPlaylistThenReAdd 14 0.000705871
+Part2.showPlaylistNonExistent 31 0.000342584
+Part2.removeFromPlaylist 6 0.00185715
+Part2.removeFromPlaylistVideoNotInPlaylist 6 0.0016709
+Part2.removeFromPlaylistNonexistentVideo 8 0.00162151
+Part2.removeFromPlaylistNonexistentPlaylist 8 0.00123709
+Part2.clearPlaylist 0 0
+Part2.clearPlaylistNonexistent 8 0.00114201
+Part2.deletePlaylist 5 0.00190614
+Part2.deletePlaylistNonexistent 8 0.00119376
+Part3.searchVideosWithNoAnswer 0 0
+Part3.searchVideosAndPlayAnswer 0 0
+Part3.searchVideosAnswerOutOfBounds 0 0
+Part3.searchVideosInvalidNumber 0 0
+Part3.searchVideosNoResults 0 0
+Part3.searchVideosWithTagNoAnswer 0 0
+Part3.searchVideosWithTagPlayAnswer 0 0
+Part3.searchVideosWithTagAnswerOutOfBounds 0 0
+Part3.searchVideosWithTagNoResults 0 0
+Part4.flagVideoWithReason 0 0
+Part4.flagVideoWithoutReason 0 0
+Part4.flagVideoAlreadyFlagged 0 0
+Part4.flagVideoNonexistent 0 0
+Part4.flagVideoCanNoLongerPlay 0 0
+Part4.flagVideosPlayRandom 0 0
+Part4.flagVideoAddVideoToPlaylist 0 0
+Part4.flagVideoShowPlaylist 0 0
+Part4.flagVideoShowAllVideos 0 0
+Part4.flagVideoSearchVideos 0 0
+Part4.flagVideoSearchVideosWithTag 0 0
+Part4.flagVideoStopPlayingVideo 0 0
+Part4.flagVideoStopPausedVideo 0 0
+Part4.flagVideoKeepVideoPlayingIfDifferentFromFlaggedVideo 0 0
+Part4.allowVideo 0 0
+Part4.allowVideoNotFlagged 0 0
+Part4.allowVideoNonexistent 0 0
+Part4.allowVideoShowPlaylist 0 0
+VideoLibrary.VideoLibraryHasAllVideos 42 0.000173738
+VideoLibrary.VideoLibraryParsesTagsCorrectly 42 0.000174619
+VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags 42 0.000167626
+---
+Part1.playRandomVideo
+Part1.playRandomVideoStopsPreviousVideo
+Part2.clearPlaylist
+Part3.searchVideosWithNoAnswer
+Part3.searchVideosAndPlayAnswer
+Part3.searchVideosAnswerOutOfBounds
+Part3.searchVideosInvalidNumber
+Part3.searchVideosNoResults
+Part3.searchVideosWithTagNoAnswer
+Part3.searchVideosWithTagPlayAnswer
+Part3.searchVideosWithTagAnswerOutOfBounds
+Part3.searchVideosWithTagNoResults
+Part4.flagVideoWithReason
+Part4.flagVideoWithoutReason
+Part4.flagVideoAlreadyFlagged
+Part4.flagVideoNonexistent
+Part4.flagVideoCanNoLongerPlay
+Part4.flagVideosPlayRandom
+Part4.flagVideoAddVideoToPlaylist
+Part4.flagVideoShowPlaylist
+Part4.flagVideoShowAllVideos
+Part4.flagVideoSearchVideos
+Part4.flagVideoSearchVideosWithTag
+Part4.flagVideoStopPlayingVideo
+Part4.flagVideoStopPausedVideo
+Part4.flagVideoKeepVideoPlayingIfDifferentFromFlaggedVideo
+Part4.allowVideo
+Part4.allowVideoNotFlagged
+Part4.allowVideoNonexistent
+Part4.allowVideoShowPlaylist

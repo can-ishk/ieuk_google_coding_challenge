@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/CMakeFiles/videolibrary_test.dir/embed.manifest"

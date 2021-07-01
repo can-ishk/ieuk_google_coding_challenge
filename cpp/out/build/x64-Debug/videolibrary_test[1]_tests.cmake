@@ -1,0 +1,7 @@
+add_test( VideoLibrary.VideoLibraryHasAllVideos E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/videolibrary_test.exe [==[--gtest_filter=VideoLibrary.VideoLibraryHasAllVideos]==] --gtest_also_run_disabled_tests)
+set_tests_properties( VideoLibrary.VideoLibraryHasAllVideos PROPERTIES WORKING_DIRECTORY E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( VideoLibrary.VideoLibraryParsesTagsCorrectly E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/videolibrary_test.exe [==[--gtest_filter=VideoLibrary.VideoLibraryParsesTagsCorrectly]==] --gtest_also_run_disabled_tests)
+set_tests_properties( VideoLibrary.VideoLibraryParsesTagsCorrectly PROPERTIES WORKING_DIRECTORY E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug/videolibrary_test.exe [==[--gtest_filter=VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags]==] --gtest_also_run_disabled_tests)
+set_tests_properties( VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags PROPERTIES WORKING_DIRECTORY E:/VS2019/Source/Repos/google-code-sample/cpp/out/build/x64-Debug SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set( videolibrary_test_TESTS VideoLibrary.VideoLibraryHasAllVideos VideoLibrary.VideoLibraryParsesTagsCorrectly VideoLibrary.testLibraryParsesVideoCorrectlyWithoutTags)
